@@ -1,0 +1,69 @@
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\appsettings.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\TarefasApi.exe
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\TarefasApi.deps.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\TarefasApi.runtimeconfig.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\TarefasApi.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.TarefasApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\scopedcss\bundle\TarefasApi.styles.css
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.CopyComplete
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\refint\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\TarefasApi.genruntimeconfig.cache
+C:\Users\davio\OneDrive\Área de Trabalho\Nova pasta\TarefasApi\obj\Debug\net8.0\ref\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\appsettings.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\TarefasApi.exe
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\TarefasApi.deps.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\TarefasApi.runtimeconfig.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\TarefasApi.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.TarefasApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TarefasApi.props
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\scopedcss\bundle\TarefasApi.styles.css
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.csproj.CopyComplete
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\refint\TarefasApi.dll
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\TarefasApi.genruntimeconfig.cache
+C:\Users\davio\OneDrive\Área de Trabalho\TarefasAPI\TarefasApi\obj\Debug\net8.0\ref\TarefasApi.dll
